@@ -1,0 +1,96 @@
+.immagine
+{
+    width: 500px;
+    height: 460px;
+    
+}
+
+
+.bordo
+{
+    border-style: solid;
+    border-radius: 3px;
+}
+
+.bigfont
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+.midfont
+{
+    font-family:Times, Times New Roman, serif;
+    font-size: 28px;
+}
+
+.sfondone
+{
+    background-color:rgba(248, 226, 22, 0.747);
+}
+
+.midfontd
+{
+    font-family:Impact, fantasy;
+    font-size: 28px;
+}
+
+.testo
+{
+    text-align: center;
+
+}
+
+.divhobby
+{
+    align-items: center;
+}
+
+.mhwi
+{
+    width: 600px;
+    height: 350px;
+    border-style: solid;
+    border-radius: 40px;
+    border-color: rgb(243, 212, 34);
+}
+.moto
+{
+    width: 600px;
+    height: 420px;
+    border-style: solid;
+    border-radius: 40px;
+    border-color: rgb(243, 212, 34);
+}
+
+.bordobby
+ {
+    border: 6px solid rgb(243, 212, 34);
+    border-radius: 10px;
+    background-color: rgb(243, 212, 34);
+ }
+ 
+ .Testohobby
+ {
+    font-family: Gill Sans, sans-serif;
+    font-size: 20px;
+ }
+
+ .notion
+ {
+    width: 400px;
+    height: 400px;
+    border-style: solid;
+    border-radius: 40px;
+    border-color: rgb(243, 212, 34);
+ }
+
+ .sfondooter
+ {
+    background-color: rgb(85, 85, 85);
+ }
+
+ .midfontf
+ {
+    font-family:Times, Times New Roman, serif;
+    font-size: 17px;
+ }
